@@ -46,3 +46,13 @@ body {
     opacity: 0.5;
     cursor: not-allowed;
 }
+
+
+.video-container {
+    text-align: center;
+}
+
+video {
+    max-width: 90%;
+    height: auto;
+}
